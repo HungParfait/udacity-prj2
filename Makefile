@@ -7,6 +7,6 @@ test:
 
 
 lint:
-	pylint --disable=R,C ~/udacity-prj2/hello.py
+	pylint --disable=R,C hello.py
 
 all: install lint test
