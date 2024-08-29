@@ -1,4 +1,5 @@
 def toyou(x):
+    print("I was exhausted")
     return "hi %s" % x
 
 
